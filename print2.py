@@ -1,2 +1,2 @@
 def print2():
-  print('')
+  print('빅픽쳐')
